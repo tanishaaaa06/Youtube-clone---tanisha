@@ -11,7 +11,7 @@ This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The
 - Display video information (title, description, uploader, views, likes, etc.)
 - Responsive design for various devices
 
-Website Link: https://atinder11.github.io/Youtube-Clone/
+
 ## Demo Video:
 
 
