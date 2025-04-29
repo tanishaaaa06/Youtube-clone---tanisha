@@ -58,13 +58,5 @@ https://github.com/atinder11/Youtube-Clone/assets/111070211/e8ecdcc1-a761-4bb7-a
 3. You can click on any video to watch it. The video will be played in a video player.
 4. Use the search bar to search for specific videos. The search results will be displayed below the search bar.
 
-## Configuration
-You may need to obtain a YouTube Data API key to fetch real video data. Follow these steps:
-1. Go to the Google Developer Console: https://console.developers.google.com/.
-2. Create a new project (if you haven't already) and enable the YouTube Data API.
-3. Generate an API key for the project.
-4. Replace the `YOUR_API_KEY` placeholder in the JavaScript file with your actual API key.
 
-## Contributing
-Contributions to this project are welcome! If you find any bugs or want to add new features, please create a pull request. For major changes, please open an issue first to discuss the changes.
 
